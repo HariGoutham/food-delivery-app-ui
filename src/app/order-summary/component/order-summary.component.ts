@@ -44,6 +44,7 @@ export class OrderSummaryComponent {
   closeDialog() {
     this.showDialog = false;
     this.router.navigate(['/']); // Replace '/home' with the actual route for your home page
+    //test
   }
 
 
